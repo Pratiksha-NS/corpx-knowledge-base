@@ -177,7 +177,9 @@ jobs:
 
           TODAY="$(date +'%Y-%m-%d')"
 
+
           gh issue create \
+            --repo "${GITHUB_REPOSITORY}" \
             --title "${TODAY} - Deployment: ${STATUS_TEXT}" \
             --body "URL: ${PAGE_URL}"
 
