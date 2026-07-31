@@ -1,3 +1,8 @@
+## Project Submission Links
+ 
+- GitHub Repository: https://github.com/Pratiksha-NS/corpx-knowledge-base 
+- Published Knowledge Base Website: https://pratiksha-ns.github.io/corpx-knowledge-base/  
+
 # CorpX Documentation
 
 Welcome to CorpX documentation! Our documentation serves as a vital resource for understanding our products, services, and processes. It ensures clarity, consistency, and accessibility for both internal teams and external users. We value your contributions to keeping our documentation robust and up-to-date.
